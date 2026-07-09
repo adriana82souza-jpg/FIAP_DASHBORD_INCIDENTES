@@ -1,0 +1,18 @@
+# Dashboard
+streamlit
+plotly
+Pillow
+
+# Data & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Visualização (notebooks)
+matplotlib
+seaborn
+
+# Notebooks
+jupyter
+ipykernel
